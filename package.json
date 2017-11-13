@@ -1,0 +1,17 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node app/app.js"
+  },
+  "dependencies": {
+    "hummus": "^1.0.75",
+    "lokijs": "^1.4.3",
+    "q": "^1.5.0",
+    "q-superagent": "^1.0.1",
+    "superagent": "^3.5.2",
+    "superagent-binary-parser": "^1.0.1",
+    "superagent-promise": "^1.1.0",
+    "superagent-proxy": "^1.0.2"
+  }
+}

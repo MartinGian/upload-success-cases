@@ -1,0 +1,6 @@
+.idea/
+.DS_Store
+downloads/
+sc.db
+node_modules/
+watermarked/

@@ -1,0 +1,20 @@
+{
+  "google" : {
+    "auth": {
+      "token" : "ya29.Gl3oBKNsoCi-ml0Q1jbBVaBQpxlxnNv9XNO2FhisQKKQwvg3fQAuFJLBVHwTpNgMmJTjQvho_TRJJSsAQnywgQIygNaSnvmZ4fkApDciQ4lEIGJy0LGGRneKslXPqaY"
+    },
+    "folderId" : "0B52yG-4tpzX2b19jWko1X1Zsa0E",
+    "listAPI" : "https://www.googleapis.com/drive/v2/files/:folderId/children?q=mimeType contains 'word' or mimeType contains 'doc'",
+    "presentationAPI" : "https://www.googleapis.com/drive/v2/files/:folderId/children?q=mimeType contains 'presentation' or mimeType contains 'ppt'",
+    "fileAPI" : "https://www.googleapis.com/drive/v2/files/:fileId",
+    "exportAPI" : "https://www.googleapis.com/drive/v3/files/:fileId/export?mimeType=application/pdf"
+  },
+  "cms" : {
+    "uploadAPI" : "http://10.1.0.117.nip.io/api/files/",
+    "cookie" : "bigDataPlaform-session=eyJwYXNzcG9ydCI6eyJ1c2VyIjp7ImlkIjoiMTA2NTc0MTc1NzI4MDEzNjA1MjUxIiwiZW1haWwiOnsidmFsdWUiOiJhbGVqYW5kcm8ubmlldG9AZ2xvYmFudC5jb20iLCJ0eXBlIjoiYWNjb3VudCJ9LCJkaXNwbGF5TmFtZSI6IkFsZWphbmRybyBOaWV0byJ9fX0=; bigDataPlaform-session.sig=S8x0BY9QuAOMalOzxdahXMeWv7k; __utma=144897195.1886288628.1508330202.1508330202.1508330202.1; __utmc=144897195; __utmz=144897195.1508330202.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); io=Fj63p9UuynvF_Xd4AAAK"
+  },
+  "proxy" : "http://proxy.uy.corp.globant.com:3128",
+  "downloadFolder" : "./downloads",
+  "outputFolder" : "./watermarked",
+  "uploadFolder" :  "./downloads"
+}
