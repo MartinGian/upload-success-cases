@@ -1,7 +1,7 @@
 {
   "google" : {
     "auth": {
-      "token" : "ya29.GlsDBc7lSOoR-VG2hxHp-bIcBJc1dHggsP4puiq3MeBJHKKc-d-EF6zX6JEc3PR0iT15l9tWu0Y5Jb4-mABnfx2OoIHPwytzeSzIUsM3EI_NRarti6MUSINNbtAi"
+      "token" : "ya29.GlsGBe38r7GVI019olDHItvoYX0kl9SzlbPvLMTwP8hYyeIS9PkpAb4HiDoLhSlNvCbPrsq4riENmyfOwh-8ADcZDpJWAmGwcG1fAWCxXL1_gUIZLAcnz0R1PKo8"
     },
     "folderId" : "0B52yG-4tpzX2b19jWko1X1Zsa0E",
     "listAPI" : "https://www.googleapis.com/drive/v2/files/:folderId/children?q=mimeType contains 'word' or mimeType contains 'doc'",
