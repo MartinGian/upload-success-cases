@@ -1,7 +1,7 @@
 {
   "google" : {
     "auth": {
-      "token" : "ya29.GlsMBWG6Cxq8tl9QdYVjjNlanArAiIJSCWgZSsgRCwFvyGN8nifJoSCFmFI9WgFpqcNpDtjt19Drpaa5To4hrW7_xWn3yjF6dNAO3skM5ox1Xh7PsSAZIoV3Ki3F"
+      "token" : "ya29.GlsnBR7VlbYJ9k64RgcUyRny_W0wwv_Ds1FBv7M0_LcfNr-7PNKe7IPa0QrDNdIIdQK82wtJ0sQF5rTBrFVMRjWRMciAQkKWmGANVe8uguj_T1WUmJ6-dxmpaZbu"
     },
     "folderId" : "0B52yG-4tpzX2b19jWko1X1Zsa0E",
     "listAPI" : "https://www.googleapis.com/drive/v2/files/:folderId/children?q=mimeType contains 'word' or mimeType contains 'doc'",
@@ -10,8 +10,8 @@
     "exportAPI" : "https://www.googleapis.com/drive/v3/files/:fileId/export?mimeType=application/pdf"
   },
   "cms" : {
-    "uploadAPI" : "http://10.1.0.117/api/files/upload",
-    "cookie" : "bigDataPlaform-session=eyJwYXNzcG9ydCI6eyJ1c2VyIjp7ImlkIjoiMTE1ODQ4MzQ0ODQ1MjU4ODA4MzQxIiwiZW1haWwiOiJtLmdpYW5uZWNoaW5pQGdsb2JhbnQuY29tIiwiZGlzcGxheU5hbWUiOiJNYXJ0aW4gR2lhbm5lY2hpbmkgTWVyZWxsbyIsInRva2VuIjoieWEyOS5HbHNNQlc2ckJEXzV6YWk2czRkMkhwLXZsTlNRMjJ4UnJ0cnZIbnlsREZSYThoNHRXWmxDMW15c2F4Q0NuMFJRdWR1ZWFuY0EtYXgwWGozWHlXV1FCUlhjVWNqelBHaVIzRENWa05sODBvVTVscV9TVENxaHlPbFF2X1ZOIn19fQ==; bigDataPlaform-session.sig=RDiki85PQvl2fjuSLz8Z-b3SHzc; io=fLlpLeJcNlKr3FIbAAAT"
+    "uploadAPI" : "http://10.1.0.117/api/files",
+    "cookie" : "__utma=144897195.1275545735.1513345165.1513345165.1513345165.1; __utmz=144897195.1513345165.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=(not%20provided); bigDataPlaform-session=eyJwYXNzcG9ydCI6eyJ1c2VyIjp7ImlkIjoiMTE1ODQ4MzQ0ODQ1MjU4ODA4MzQxIiwiZW1haWwiOiJtLmdpYW5uZWNoaW5pQGdsb2JhbnQuY29tIiwiZGlzcGxheU5hbWUiOiJNYXJ0aW4gR2lhbm5lY2hpbmkgTWVyZWxsbyIsInRva2VuIjoieWEyOS5HbHNuQlpzV08tUmVoZUhMdWVDbnN6c1R0OU9kaHAzelBHMGlVVjVSa1RmbDFEZWdTTVBQNElLaHg5TEN5SmpoUlFNQVZackZwa2V3bGxxMGRtOUlVM3g1WHJjcGtEODFHY1V6b2VWWXczbXg5VWt4QWtXOGF5eXIyQXZYIn19fQ==; bigDataPlaform-session.sig=ri8d3vZW2vUOoXK_u8iM-R4QKYM; io=gRA2celVI5SwOyUaAAAB"
   },
   "downloadFolder" : "./downloads",
   "outputFolder" : "./watermarked",
