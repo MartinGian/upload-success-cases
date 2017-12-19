@@ -1,0 +1,48 @@
+Caso,Technology Tags (en formato csv),Studio Tags (en formato csv),Business Tags (en formato csv),Quien lo taggeo?
+AEP Energy | CORPORATE OPERATIONAL DASHBOARD,"Kafka,Spark Streaming,Cassandra,Spring,Stomp over Web Sockets,Angular,D3.js,Java,Neo4J,MySQL,Mule ESB,Hazelcast,Jenkins","Data Architecture,Data Visualization",Energy,Christian
+AMADEUS | Hotel BI Platform (2012/2013),"OBIEE 11g,jQuery,HTML5,Java","Data Architecture,Data Visualization,Data Integration",Travel/Airlines,Christian
+Autodesk | 360 Core Platform,"Scala,TitanDB,Cassandra,AWS platform","Data Architecture,Mission Critical,Data Integration",Software,Christian
+Autodesk | PLM (Draft!),"Java,Scala,Cassandra,PostgreSQL,AWS",Mission Critical,Software,Christian
+Autodesk | Skyscraper,"Cassandra,.Net,AWS","Mission Critical,Data Architecture",Software,Christian
+BBVA | Commerce360,"Java,Backbone,D3.js,CartoDB,AWS,Postgre","Data Architecture,Data Visualization,Data Integration",Financial services,Christian
+BBVA | Heatmaps / Events Meter,"Java,POI,CartoDB,AWS,Backbone,jQuery,CartoDB.js,freemarker,Globalize,Require,Bootstrap","Data Architecture,Data Visualization,Data Integration",Financial services,Christian
+BBVA | Innovation – Reinventing Email (Draft!),".Net,Nancy,ActiveSync,Outlook","Data Architecture,Data Science,Data Integration",Financial services,Christian
+BBVA | Staff work collaboration (Draft),"R,Google APP Engine","Data Architecture,Data Science",Financial services,Christian
+BBVA | Termómetro (Métricas),"Google Cloud Platform,Map-reduce,Java,Hadoop,PIG","Data Architecture,Data Science,Data Visualization",Financial services,Christian
+Box.net | Cloud Storage (Draft!),".NET,Python,Ranorex,Visual Studio Tools for Office,WPF",Mission Critical,Cloud Storage,Christian
+Claro | SALES ANALYTICS (Draft!),"Oracle,OBIEE,SQL Server,Access","Data Architecture,Data Integration,Data Visualization",Telecommunications,Christian
+Credit Suisse | Collateral Optimization,"JAva,Gurobi,Sybase,Python,Spark","Mission Critical,Data Science,Data Visualization",Financial services,Christian
+Disney | Web Analytics (Draft!),"HDFS,Mapreduce,Pig,Hive,Python,Java,Bash,R,Scikit-Learn,MySQL,PostgreSQL",Data Architecture,Entertainment,Christian
+GAIKAI / SONY | GAME TELEMETRY ANALYSIS (Draft!),"Spring,REST API,VerticaDB,JQuery,Highcharts.js,Python","Mission Critical,Data Integration,Data Visualization",Entertainment,Christian
+GAP | Pack Optimization and Size & Pack modules,"REST API,Java,MongoDB","Data Architecture,Mission Critical,Data Integration,Data Science",Retail,Christian (lo tome de la tool)
+GAP | Price Optimization,"Gurobi,Puthon,.Net,REST API,Java,Spring,MongoDB,RabbitMQ","Data Architecture,Data Integration,Data Science,Mission Critical",Retail,Christian
+Google | ARA,"Java,Solr,MySQL,Reddis,Android",Mission Critical,Retail,Christian
+Google | GUTS,"Tableau,Google Big Query,Oracle",Data Visualization,IT Service Provider,Christian
+HUB INTERNATIONAL | EDW & PENTAHO ANALYTICS,"SQL server,SSIS,Pentaho","Data Architecture,Data Integration,Data Visualization",Insurance,Christian
+ICAP | Trading Optimization (Draft!),"SQL Server,Spring Web Services",Data Science,Financial services,Christian
+ISOLATION NETWORKS | Retailer and Sales Analytics (draft!),"Pentaho,Postgre,AWS,Node.js,Angular.js,D3.js,Highcharts.js","Data Integration,Data Visualization",Entertainment,Christian
+JPMC | AML - Sanctions Screening,"R,SQL Server,Oracle",Data Science,Financial services,Christian
+JPMC | Electronic Trading,"Java,Mule,ActiveMQ,MySQL,Flex,SOAP",Data Integration,Financial services,Christian
+JPMC | Innovation – Reinventing Email (Draft!),".Net,Nancy,ActiveSync,Outlook","Data Architecture,Data Science,Data Integration",Financial services,Christian
+JPMC | Market Integrator (Draft!),"Java,Mule,ActiveMQ,MySQL,Flex,SOAP",Data Integration,Financial services,Christian
+K12 | Adaptive (Draft!),"Intellify,Oracle Big Data Appliance,Java,Python,Hadoop,Hive,Impala,Shiny,R","Data Visualization,Data Science,Data Integration",Education,Christian
+K12 | E-LEARNING ANALYTICS,"Oracle Big Data Appliance,Hadoop,Tableau,R,Shiny","Data Architecture,Data Science,Data Visualization",Education,Christian (lo tome de la tool)
+Kantar | ARS (Addressable Reporting System) (Draft!),"Oracle,Java,Google Charts","Data Architecture,Data Integration,Data Visualization",Media Marketing,Christian
+Kantar Media | AUDIENCE ANALYSIS - CANCELLED,"Oracle,Java,Google Charts","Data Architecture,Data Integration,Data Visualization",Media Marketing,Christian
+Knowledge Factor | E-Learning Analytics (draft!),"MongoDB,Pentaho,PostgreSQL","Data Architecture,Data Integration,Data Visualization",Education,Christian
+Loyal3 | Analytics (Draft!),"Scala,Finatra,Finagle,HTML5,CSS3,ClojureScript,AWS,Docker",Data Integration,Financial services,Christian
+MINDSHARE | DRAW (Draft!),"Pentaho,Tableau,SSIS,SQL Server,SSAS,QlikView","Data Architecture,Data Integration,Data Visualization",Media Marketing,Christian
+Money Gram | MONEY TRANSFER PORTAL & REAL-TIME FRAUD DETECTION (Draft!),Java,"Data Science,Data Visualization",Financial services,Christian
+Muzit | TRACE,"AWS,PostgreSQL,Java,PHP,Node.js","Data Architecture,Data Visualization",Entertainment,Christian
+Natura | Dashboard (Phase 1) (DRAFT!),"AWS,Pentaho,ETL,Javascript,HTML5,MySQL","Data Integration,Data Visualization",Retail,Christian (lo tome de la tool)
+"NBA Properties, Inc | CDS Consultancy","MySQL,Pentaho,Tableau,R","Data Architecture,Data Integration,Data Visualization,Data Science",Entertainment,Christian
+OIM | Vivanto (Draft!),".Net,AWS,SQL Server",Mission Critical,Government,Christian
+Openbank | New Digital Platform (Draft!),"Bootstrap,HTML5,Gulp,JQuery,Java","Data Architecture,Data Integration,Data Visualization,Data Science,Mission Critical",Financial services,Christian
+Point 72 | SAC (Draft!),WIP,Mission Critical,Financial services,Alvaro
+SPINVOX | VOICE TO TEXT SCALABLE PLATFORM (Draft!),"JavaMail,SMIME,CouchDb,Spring,ActiveMQ,Terracota","Data Integration,Data Architecture,Data Visualization",Telecommunications,Christian
+Supervielle | Technology Innovation,".Net,SQL Server,JQuery,Hybrid",Mission Critical,Financial services,Christian
+TeleTech | Data Warehouse & Reporting,"SQL Server,Oracle,SSIS,SSRS,SSAS,Sharepoint","Data Integration,Data Architecture,Data Visualization",IT Service Provider,Christian
+TNS | BPO (Draft!),".Net,SQL Server,WCF",Mission Critical,Media Marketing,Christian
+Tripwire | RAV ,"Python,PostgreSQL,Elastic Search,Java,Kafka,ZooKeeper","Data Integration,Data Architecture,Mission Critical",Security,Christian
+Tyco | Blockchain,"Ethereum,iOS,Java,Apache Tomcat,Java Spark,Docker",Blockchain,Security,Christian
+United | Revenue Management,"Javascript,Babel,Angular.js,Gulp,Webpack,Highcharts.js",Data Visualization,Travel/Airlines,Christian
