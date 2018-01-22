@@ -141,14 +141,8 @@ var extracter = (function () {
         techTags: _tags.tech,
         businessTags: _tags.business,
         studioTags: _tags.studio,
-        document: {
-          drive: _document,
-          name: _document.title + '.pdf'
-        },
-        deck: {
-          drive: _presentation,
-          name: _presentation.title + '.pdf'
-        }
+        document: _document,
+        deck: _presentation
       };
 
       try {
