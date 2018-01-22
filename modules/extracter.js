@@ -7,7 +7,7 @@ var parse = require('csv-parse');
 var fs = require('fs');
 require('superagent-proxy')(agent);
 require('q-superagent')(agent);
-var config = JSON.parse(fs.readFileSync('../config/config.json', 'utf8'));
+var config = JSON.parse(fs.readFileSync('config/config.json', 'utf8'));
 
 var extracter = (function () {
 
@@ -159,7 +159,7 @@ var extracter = (function () {
           .post(config.cms.uploadAPI)
           .send(_data)
           .set('Cookie', config.cms.cookie)
-          .proxy(config.proxy)
+          // .proxy(config.proxy)
           .timeout(600000);
 
         console.log(`[${i}] - Uploaded... ${_document.title}`);
@@ -203,7 +203,7 @@ var extracter = (function () {
           resolve(tags);
         });
 
-        fs.createReadStream('../config/tags.csv').pipe(parser);
+        fs.createReadStream('config/tags.csv').pipe(parser);
       } catch (e) {
         console.error("Error on tags import", e);
         reject();

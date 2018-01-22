@@ -1,7 +1,7 @@
 {
   "google" : {
     "auth": {
-      "token" : "ya29.GlsMBWG6Cxq8tl9QdYVjjNlanArAiIJSCWgZSsgRCwFvyGN8nifJoSCFmFI9WgFpqcNpDtjt19Drpaa5To4hrW7_xWn3yjF6dNAO3skM5ox1Xh7PsSAZIoV3Ki3F"
+      "token" : "ya29.GltKBUCkM4u2mGMVd8MC6KlWb_71Xp4V0ebUnTkf24XXIcDiaVttWFts0IkrstK_EK2Sq2QomSkBitL4TT28E1DKaGk0aWvKoHBLNGzp0CRsZgQqkMgmaSZkSQEE"
     },
     "folderId" : "0B52yG-4tpzX2b19jWko1X1Zsa0E",
     "listAPI" : "https://www.googleapis.com/drive/v2/files/:folderId/children?q=mimeType contains 'word' or mimeType contains 'doc'",
@@ -10,8 +10,8 @@
     "exportAPI" : "https://www.googleapis.com/drive/v3/files/:fileId/export?mimeType=application/pdf"
   },
   "cms" : {
-    "uploadAPI" : "http://10.1.0.117/api/files/upload",
-    "cookie" : "bigDataPlaform-session=eyJwYXNzcG9ydCI6eyJ1c2VyIjp7ImlkIjoiMTE1ODQ4MzQ0ODQ1MjU4ODA4MzQxIiwiZW1haWwiOiJtLmdpYW5uZWNoaW5pQGdsb2JhbnQuY29tIiwiZGlzcGxheU5hbWUiOiJNYXJ0aW4gR2lhbm5lY2hpbmkgTWVyZWxsbyIsInRva2VuIjoieWEyOS5HbHNNQlc2ckJEXzV6YWk2czRkMkhwLXZsTlNRMjJ4UnJ0cnZIbnlsREZSYThoNHRXWmxDMW15c2F4Q0NuMFJRdWR1ZWFuY0EtYXgwWGozWHlXV1FCUlhjVWNqelBHaVIzRENWa05sODBvVTVscV9TVENxaHlPbFF2X1ZOIn19fQ==; bigDataPlaform-session.sig=RDiki85PQvl2fjuSLz8Z-b3SHzc; io=fLlpLeJcNlKr3FIbAAAT"
+    "uploadAPI" : "http://casosexitobigdata.corp.globant.com/api/files/upload",
+    "cookie" : "bigDataPlaform-session=eyJwYXNzcG9ydCI6eyJ1c2VyIjp7ImlkIjoiMTE1ODQ4MzQ0ODQ1MjU4ODA4MzQxIiwiZW1haWwiOiJtLmdpYW5uZWNoaW5pQGdsb2JhbnQuY29tIiwiZGlzcGxheU5hbWUiOiJNYXJ0aW4gR2lhbm5lY2hpbmkgTWVyZWxsbyIsInRva2VuIjoieWEyOS5HbHRLQmNXU1ExMkRTc01EZWtJX3A0MkdydkxNamZ6MUtkZl9zckVHbDVyMnVjd0haSkg3aFo3YTFyTTg3UkJsQkNpTjFiRVFkQy1qX0ZoNXEwamxjZWVqMjRyZFoybEFSdDdqdWZOUExMNFlBaEExOHR2MjZGUzlTM20xIn19fQ==; bigDataPlaform-session.sig=zEyeCqJJxBdKNLxer5AWUfIbw6Y; io=u7Yoropyt2ZKfSuRAAAC"
   },
   "downloadFolder" : "./downloads",
   "outputFolder" : "./watermarked",
